@@ -1,5 +1,5 @@
 
-project = 'PeacocktvGuide12'
+project = 'Pogo Games Login'
 author = 'Your Name'
 release = '1.0'
 
