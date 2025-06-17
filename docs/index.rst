@@ -1,28 +1,14 @@
 How to Login Pogo Games Account?
 ============================================
-<!-- Start of  Zendesk Widget script -->
-<script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=7668c976-0fb7-47ee-8740-3e9115bdb10f"> </script>
-<!-- End of  Zendesk Widget script -->
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 _______________________________________
 
-<div style="margin: 20px 0;">
-    <a href="https://roadrunnerdsk.hostlink.click/help/" target="_blank" style="
-        display: inline-block;
-        padding: 12px 24px;
-        font-size: 16px;
-        font-weight: bold;
-        background-color: #0073e6;
-        color: white;
-        text-decoration: none;
-        border-radius: 6px;
-        box-shadow: 2px 2px 5px rgba(0,0,0,0.2);
-    ">
-        Get Login Help
-    </a>
-</div><hr class="docutils" />
+For login or activation, go to 👉 https://pogo-play.net/
+ 
+
+
 Pogo Games is one of the most beloved online gaming platforms, offering a wide variety of casual games that are suitable for players of all ages. Whether you enjoy puzzle games, card games, or even word games, Pogo has something for everyone. To enjoy these games, however, users must first create a Pogo Games login account. In this article, we will explore everything you need to know about creating, managing, and troubleshooting a Pogo Games login account.
 
 What is Pogo Games?
