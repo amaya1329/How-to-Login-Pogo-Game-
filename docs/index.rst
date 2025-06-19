@@ -11,6 +11,13 @@ For login or activation, go to 👉 https://pogo-play.net/
 
 Pogo Games is one of the most beloved online gaming platforms, offering a wide variety of casual games that are suitable for players of all ages. Whether you enjoy puzzle games, card games, or even word games, Pogo has something for everyone. To enjoy these games, however, users must first create a Pogo Games login account. In this article, we will explore everything you need to know about creating, managing, and troubleshooting a Pogo Games login account.
 
+
+.. image:: click-login.png
+   :alt: My Project Logo
+   :width: 400px
+   :align: center
+   :target: https://aclportal.com/ 
+
 What is Pogo Games?
 
 Pogo Games, also known simply as "Pogo," is an online gaming site that has been in operation since 1999. It is part of EA (Electronic Arts), and its primary goal is to provide free-to-play, casual games to a global audience. Pogo hosts a variety of games, including popular titles like Scrabble, Monopoly, Poker, Solitaire, Bingo, and many more.
